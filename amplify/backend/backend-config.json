@@ -1,0 +1,9 @@
+{
+  "function": {
+    "site10lambda1": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
